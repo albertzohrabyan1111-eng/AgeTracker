@@ -1,0 +1,45 @@
+@media (max-width: 576px) {
+    .cnund_box {
+        width: 350px;
+        min-height: 350px;
+        max-height: 350px;
+    }
+
+    .date_inp {
+        font-size: 16px;
+        padding: 12px 50px;
+    }
+
+    .knop {
+        font-size: 16px;
+        padding: 6px 32px;
+    }
+
+    .alert {
+        width: 280px;
+        height: 280px;
+        border-radius: 35px;
+    }
+
+    .vern {
+        font-size: 20px;
+    }
+
+    .knop_ok {
+        font-size: 18px;
+        padding: 10px 63px;
+    }
+}
+
+@media (max-width: 425px) {
+    .cnund_box {
+        width: 250px;
+        min-height: 250px;
+        max-height: 250px;
+    }
+    
+    .date_inp {
+        font-size: 16px;
+        padding: 12px 18px;
+    }
+}
